@@ -1,3 +1,6 @@
 [submodule "TSP"]
 	path = TSP
 	url = https://github.com/Greateapot/creative-project-TSP.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Greateapot/creative-project-server
