@@ -10,3 +10,6 @@
 [submodule "process_utils"]
 	path = process_utils
 	url = https://github.com/Greateapot/creative-project-submodule
+[submodule "api"]
+	path = api
+	url = https://github.com/Greateapot/creative-project-api
